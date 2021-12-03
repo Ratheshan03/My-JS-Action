@@ -1,3 +1,3 @@
 # My-JS-Action
 
-GitHub Actions
+My first GitHub Action
