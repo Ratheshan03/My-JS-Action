@@ -16,9 +16,12 @@ My first GitHub Action
     -   create index.js 
           - Add neccessary code in index.js
 - Stage the changes
+
 - Commit the changes 
+
 - Tag the commit 
     - " git tag -a -m "commit - message" v1
+   
 - Push the changes
     - " git push --follow-tags "
 
@@ -29,10 +32,11 @@ My first GitHub Action
     -  push the code
  
 - Navigate to to your repository 
-    - selection ACTIONS Tab
+    - select ACTIONS Tab
     - select the recent workflow
     - Check the debugger console
-####  HOLA ! You have created your GITHUB Workflow
+    
+####  HOLA 🥳 !!! You have created your GITHUB Workflow..
 
 
 
